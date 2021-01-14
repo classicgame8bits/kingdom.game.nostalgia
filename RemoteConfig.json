@@ -1,8 +1,8 @@
 {
   "packageName": "retro.memories.free.games",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "NES Games are under maintenance!\nPlease back after 2 HOUR or PLAY\nother version on store!\nMany Thanks!",
-  "forceUpdateUrl": "market://details?id=nes.games.store",
+  "forceUpdateUrl": "market://details?id=retro.nes.all.free",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
